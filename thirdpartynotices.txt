@@ -1,0 +1,158 @@
+Third Party Notices
+
+This file is based on or incorporates material from the projects listed below (Third Party IP). The original copyright notice and the
+license under which Microsoft received such Third Party IP, are set forth below. Such licenses and notices are provided for informational
+purposes only. Microsoft licenses the Third Party IP to you under the licensing terms for the Microsoft product. Microsoft reserves all
+other rights not expressly granted under this agreement, whether by implication, estoppel or otherwise.
+
+
+===
+
+@1js/office-online-jsapi-core 3.34.4: UNLICENSED License, No copyright notice
+@1js/owl-bootstrapper 1.24.97: MIT License, No copyright notice
+@1js/owl-shared-types 2.1.6: MIT License, No copyright notice
+@1js/wise-bootstrapper 2.10.308: MIT License, No copyright notice
+@azure/msal-browser-1p 3.13.0: MIT License, Copyright (c) Microsoft Corporation. All rights reserved.
+@azure/msal-browser 3.13.0: MIT License, Copyright (c) Microsoft Corporation. All rights reserved.
+@azure/msal-common 14.9.0: MIT License, Copyright (c) Microsoft Corporation. All rights reserved.
+@azure/msal-react 2.0.12: MIT License, Copyright (c) Microsoft Corporation. All rights reserved.
+@emotion/hash 0.9.1: MIT License, Copyright (c) Emotion team and other contributors
+@fluentui/keyboard-keys 9.0.7: MIT License, Copyright (c) Microsoft Corporation
+@fluentui/react-aria 9.12.0: MIT License, Copyright (c) Microsoft Corporation
+@fluentui/react-avatar 9.6.29: MIT License, Copyright (c) Microsoft Corporation
+@fluentui/react-button 9.3.83: MIT License, Copyright (c) Microsoft Corporation
+@fluentui/react-context-selector 9.1.61: MIT License, Copyright (c) Microsoft Corporation
+@fluentui/react-dialog 9.11.0: MIT License, Copyright (c) Microsoft Corporation
+@fluentui/react-divider 9.2.70: MIT License, Copyright (c) Microsoft Corporation
+@fluentui/react-hooks 8.8.6: MIT License, Copyright (c) Microsoft Corporation
+@fluentui/react-icons 2.0.242: MIT License, No copyright notice
+@fluentui/react-image 9.1.68: MIT License, Copyright (c) Microsoft Corporation
+@fluentui/react-jsx-runtime 9.0.39: MIT License, Copyright (c) Microsoft Corporation
+@fluentui/react-label 9.1.71: MIT License, Copyright (c) Microsoft Corporation
+@fluentui/react-link 9.2.24: MIT License, Copyright (c) Microsoft Corporation
+@fluentui/react-message-bar 9.2.2: MIT License, Copyright (c) Microsoft Corporation
+@fluentui/react-motion 9.0.0: MIT License, Copyright (c) Microsoft Corporation
+@fluentui/react-portal 9.4.27: MIT License, Copyright (c) Microsoft Corporation
+@fluentui/react-provider 9.16.2: MIT License, Copyright (c) Microsoft Corporation
+@fluentui/react-shared-contexts 9.19.0: MIT License, Copyright (c) Microsoft Corporation
+@fluentui/react-skeleton 9.1.6: MIT License, Copyright (c) Microsoft Corporation
+@fluentui/react-spinner 9.4.9: MIT License, Copyright (c) Microsoft Corporation
+@fluentui/react-table 9.15.7: MIT License, Copyright (c) Microsoft Corporation
+@fluentui/react-tabster 9.22.0: MIT License, Copyright (c) Microsoft Corporation
+@fluentui/react-text 9.4.20: MIT License, Copyright (c) Microsoft Corporation
+@fluentui/react-toolbar 9.1.86: MIT License, Copyright (c) Microsoft Corporation
+@fluentui/react-utilities 9.18.10: MIT License, Copyright (c) Microsoft Corporation
+@fluentui/tokens 1.0.0-alpha.16: MIT License, Copyright (c) Microsoft Corporation
+@griffel/core 1.17.0: MIT License, No copyright notice
+@griffel/react 1.5.23: MIT License, No copyright notice
+@microsoft/1ds-analytics-js 3.2.17: ISC License, Javascript Telemetry SDKs <TelReachSDK@microsoft.com>
+@microsoft/1ds-core-js 3.2.17: MIT License, Javascript Telemetry SDKs <TelReachSDK@microsoft.com>
+@microsoft/1ds-post-js 3.2.17: MIT License, Javascript Telemetry SDKs <TelReachSDK@microsoft.com>
+@microsoft/1ds-privacy-guard-js 3.2.17: ISC License, Office Privacy Guard Feature Crew <privacygfc@microsoft.com>
+@microsoft/1ds-properties-js 3.2.17: ISC License, Javascript Telemetry SDKs <TelReachSDK@microsoft.com>
+@microsoft/applicationinsights-core-js 2.8.18: MIT License, Copyright (c) Microsoft Corporation
+@microsoft/applicationinsights-shims 2.0.2: MIT License, Copyright (c) Microsoft Corporation
+@microsoft/dynamicproto-js 1.1.11: MIT License, Copyright (c) Microsoft Corporation
+@microsoft/microsoft-graph-client 3.0.7: MIT License, Copyright (c) 2018 Microsoft Corporation
+@microsoft/oteljs-1ds 4.20.7: MIT License, SDX Telemetry <SDXTelemetry@service.microsoft.com>
+@microsoft/oteljs 4.20.7: MIT License, SDX Telemetry <SDXTelemetry@service.microsoft.com>
+@ms/centro-hvc-loader 3.6.0: UNLICENSED License, MAC Platform Team <macplat@microsoft.com>
+@ms/inapp-feedback-loader 1.1.6: UNLICENSED License, InAppFeedback Team <InAppFbEngineers@microsoft.com>
+@ms/utilities-cross-window 1.7.0: MIT License, No copyright notice
+@ms/utilities-disposables 1.1.0: MIT License, No copyright notice
+@remix-run/router 1.15.3: MIT License, Copyright (c) React Training LLC 2015-2019
+axios 0.26.1: MIT License, Copyright (c) 2014-present Matt Zabriskie
+core-js 3.35.0: MIT License, Copyright (c) 2014-2023 Denis Pushkarev
+css-loader 5.2.7: MIT License, Copyright JS Foundation and other contributors
+file-selector 0.2.4: MIT License, Copyright (c) 2020 Roland Groza
+isomorphic-fetch 3.0.0: MIT License, Copyright (c) 2015 Matt Andrews
+jotai 2.8.2: MIT License, Copyright (c) 2020-2023 Poimandres
+keyborg 2.6.0: MIT License, Marat Abdullin <marata@microsoft.com>
+lodash-es 4.17.21: MIT License, Copyright OpenJS Foundation and other contributors <https://openjsf.org/>
+plurals-cldr 1.0.4: MIT License, Copyright (C) 2014 by Vitaly Puzrin
+prop-types 15.8.1: MIT License, Copyright (c) 2013-present, Facebook, Inc.
+react-dom 18.3.1: MIT License, Copyright (c) Facebook, Inc. and its affiliates.
+react-is 18.3.1: MIT License, Copyright (c) Facebook, Inc. and its affiliates.
+react-router-dom 6.22.3: MIT License, Copyright (c) React Training LLC 2015-2019
+react-router 6.22.3: MIT License, Copyright (c) React Training LLC 2015-2019
+react 18.3.1: MIT License, Copyright (c) Facebook, Inc. and its affiliates.
+rtl-css-js 1.16.1: MIT License, Copyright (c) 2017 Kent C. Dodds
+scheduler 0.23.2: MIT License, Copyright (c) Facebook, Inc. and its affiliates.
+singleton-state 1.0.1: MIT License, Copyright (c) 2023 Steffen Viken Valvåg
+style-loader 2.0.0: MIT License, Copyright JS Foundation and other contributors
+stylis 4.3.2: MIT License, Copyright (c) 2016-present Sultan Tarimo
+tabster 8.0.0: MIT License, Marat Abdullin <marata@microsoft.com>
+tslib 2.5.0: 0BSD License, Copyright (c) Microsoft Corporation.
+url-join 5.0.0: MIT License, Copyright (c) 2015 José F. Romaniello
+use-disposable 1.0.2: MIT License, No copyright notice
+use-file-picker 2.1.1: MIT License, Copyright (c) 2023 Milosz
+uuid 3.4.0: MIT License, Copyright (c) 2010-2016 Robert Kieffer and other contributors
+web-vitals 2.1.4: Apache-2.0 License, Philip Walton
+whatwg-fetch 3.6.2: MIT License, Copyright (c) 2014-2016 GitHub, Inc.
+zen-observable-ts 1.2.5: MIT License, Copyright (c) 2021 Apollo Graph, Inc. (Formerly Meteor Development Group, Inc.)
+
+===
+
+# Apache-2.0 License
+
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at
+
+http://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.
+
+===
+
+# BSD-3-Clause License
+
+Redistribution and use in source and binary forms, with or without modification,
+are permitted provided that the following conditions are met:
+
+1. Redistributions of source code must retain the above copyright notice, this
+list of conditions and the following disclaimer.
+
+2. Redistributions in binary form must reproduce the above copyright notice,
+this list of conditions and the following disclaimer in the documentation and/or
+other materials provided with the distribution.
+
+3. Neither the name of the copyright holder nor the names of its contributors
+may be used to endorse or promote products derived from this software without
+specific prior written permission.
+
+THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS" AND
+ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED
+WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE
+DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT HOLDER OR CONTRIBUTORS BE LIABLE FOR
+ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES
+(INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES;
+LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON
+ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT
+(INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS
+SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+
+===
+
+# MIT License
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of
+this software and associated documentation files (the "Software"), to deal in
+the Software without restriction, including without limitation the rights to
+use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of
+the Software, and to permit persons to whom the Software is furnished to do so,
+subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS
+FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR
+COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER
+IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN
+CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
